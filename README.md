@@ -1,6 +1,6 @@
 # Java-Project
-Campus Course Manager Simple Java application for university course management. 
-How to Run: 
-Compile: javac Main.java
-Run: java Main 
-Features: Student management Course catalog Menu system Created for Java programming course.
+The "Campus Course Manager" is a console-based application developed in Java. 
+It serves as a foundational Course Management System designed to streamline the administrative tasks of an educational institution. 
+The system allows for the management of two core entities: Students and Courses. 
+It provides functionalities to add, view, and manage these entities through an intuitive menu-driven interface.
+This project demonstrates the practical application of core Java concepts like Object-Oriented Programming (OOP), data structures (ArrayList), and basic input/output operations.
